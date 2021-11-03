@@ -6,7 +6,7 @@
     <li>- 🔭 I'm a Software Developer student at <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🔭 I'm a Software Engineer student and my University is UDESC<a href="https://www.udesc.br/">UDESC</a></li>
     <li>- 🌱 Currently I'm learning MySQL</li>
-    <li>- ⚡ Fun fact: I love to learn, to make conections and traveling</li>
+    <li>- ⚡ Fun fact: I love to learn, make conections and travel</li>
   </div>
 </div>
 
