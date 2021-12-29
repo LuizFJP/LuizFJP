@@ -4,9 +4,9 @@
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 I'm a Software Developer student at <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🔭 I'm a Software Engineer student and my University is UDESC<a href="https://www.udesc.br/">UDESC</a></li>
+    <li>- 🔭 I'm a Software Engineer student and my University is <a href="https://www.udesc.br/">UDESC</a></li>
     <li>- 🌱 Currently I'm learning MySQL</li>
-    <li>- ⚡ Fun fact: I love to learn, make conections and travel</li>
+    <li>- ⚡ Fun fact: I love to learn, make conections and traveling</li>
   </div>
 </div>
 
