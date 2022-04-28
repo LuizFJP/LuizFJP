@@ -13,10 +13,10 @@
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFJP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" padding-top="240em" src="https://github-readme-stats.vercel.app/api?username=LuizFJP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
  </div>
  <div>
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/LuizFJP/github-readme-stats"/>
+  <img height="400em"style="display: inline_block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/LuizFJP/github-readme-stats"/>
 </div>
 
 ---
