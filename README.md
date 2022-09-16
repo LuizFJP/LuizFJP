@@ -5,7 +5,7 @@
   <div align="left" style="display: inline_block">
     <li>- 🔭 I studied at <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🔭 I'm a Software Engineer student at <a href="https://www.udesc.br/">UDESC</a></li>
-    <li>- 🌱 Currently I'm learning Bugsnag</li>
+    <li>- 🌱 Currently I'm learning Golang, Kafka and ElasticSearch</li>
     <li>- ⚡ Fun fact: I love to learn, make conections and traveling</li>
   </div>
 </div>
