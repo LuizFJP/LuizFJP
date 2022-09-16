@@ -3,7 +3,7 @@
 <div align="center">
 <!--   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" /> -->
   <div align="left" style="display: inline_block">
-    <li>- 🔭 I'm a Software Developer student at <a href="https://betrybe.com">Trybe</a></li>
+    <li>- 🔭 I studied at <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🔭 I'm a Software Engineer student at <a href="https://www.udesc.br/">UDESC</a></li>
     <li>- 🌱 Currently I'm learning Bugsnag</li>
     <li>- ⚡ Fun fact: I love to learn, make conections and traveling</li>
