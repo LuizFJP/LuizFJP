@@ -4,19 +4,10 @@
 <!--   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" /> -->
   <div align="left" style="display: inline_block">
     <li>- 🔭 I studied at <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🔭 I'm a Software Engineer student at <a href="https://www.udesc.br/">UDESC</a></li>
-    <li>- 🌱 Currently I'm learning Golang, Kafka and ElasticSearch</li>
+    <li>- 🔭 I'm a Software Engineer graduated at <a href="https://www.udesc.br/">UDESC</a></li>
+    <li>- 🌱 Currently I'm learning Golang, AWS and System Design</li>
     <li>- ⚡ Fun fact: I love to learn, make conections and traveling</li>
   </div>
-</div>
-
----
-
-<div>
-  <img height="180em" padding-top="240em" src="https://github-readme-stats.vercel.app/api?username=LuizFJP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
- </div>
- <div>
-  <img height="400em"style="display: inline_block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/LuizFJP/github-readme-stats"/>
 </div>
 
 ---
